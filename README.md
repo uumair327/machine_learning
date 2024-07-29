@@ -14,7 +14,11 @@ i got data set from https://www.kaggle.com/datasets/sakshigoyal7/credit-card-cus
 ## **ML01**
 
 linear regression on housing prediction dataset
+
 linear regression on BankChurners dataset
+
 use sklearn for linear regression
+
 pandas for data set
+
 numpy for handling large dataset
